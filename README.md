@@ -12,9 +12,9 @@
 # Dependencies
 
 
-**[qb-core](https://github.com/qbcore-framework/qb-core)**
+**[esx legacy]**
 
-**[qb-target](https://github.com/qbcore-framework/qb-target)**
+**[qtarget / ox_target]**
 
 **[qb-menu](https://github.com/qbcore-framework/qb-menu)**
 
