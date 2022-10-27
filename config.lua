@@ -3,9 +3,9 @@ Config = {}
 Config.GrapeItem = 'grape'
 Config.WineItem = 'wine'
 Config.Skill = false     -- if u want to use skill system read README.md !
-Config.targetExport = 'qb-target' -- qb-target np-target , bt-target 
+Config.targetExport = 'qtarget' -- qb-target np-target , bt-target 
 Config.Locale = Lang["EN"]  -- [TR] / [EN]
-Config.WinePrice = 100 -- price each
+Config.WinePrice = 5 -- price each
 
 Config.targetloc = {
 	{x = 2006.107, y = 4830.520, z = 42.990 , name ="uzum1"},
